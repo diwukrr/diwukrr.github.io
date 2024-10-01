@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://diwukrr.github.io/sitemap.html.gz
+Sitemap: https://diwukrr.github.io/app/sitemap.html.gz
+Sitemap: https://diwukrr.github.io/assets/sitemap.html.gz
+Sitemap: https://diwukrr.github.io/css/sitemap.html.gz
+Sitemap: https://diwukrr.github.io/data/sitemap.html.gz
+Sitemap: https://diwukrr.github.io/includes/sitemap.html.gz
+Sitemap: https://diwukrr.github.io/item/sitemap.html.gz
+Sitemap: https://diwukrr.github.io/src/sitemap.html.gz
